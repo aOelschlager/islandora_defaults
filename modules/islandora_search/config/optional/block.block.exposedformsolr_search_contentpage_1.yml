@@ -6,9 +6,9 @@ dependencies:
   module:
     - views
   theme:
-    - bartik
+    - islandora_starter_theme
 id: exposedformsolr_search_contentpage_1
-theme: bartik
+theme: islandora_starter_theme
 region: sidebar_second
 weight: -5
 provider: null
