@@ -9,7 +9,7 @@ dependencies:
   theme:
     - islandora_starter_theme
 id: temporalsubject
-theme: bartik
+theme: islandora_starter_theme
 region: sidebar_second
 weight: 0
 provider: null
