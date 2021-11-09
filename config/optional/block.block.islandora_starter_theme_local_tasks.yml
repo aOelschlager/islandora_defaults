@@ -2,9 +2,9 @@ langcode: en
 status: true
 dependencies:
   theme:
-    - bartik
-id: bartik_local_tasks
-theme: bartik
+    - islandora_starter_theme
+id: islandora_starter_theme_local_tasks
+theme: islandora_starter_theme
 region: content
 weight: -6
 provider: null
