@@ -4,9 +4,9 @@ dependencies:
   module:
     - system
   theme:
-    - bartik
-id: bartik_page_title
-theme: bartik
+    - islandora_starter_theme
+id: islandora_starter_theme_page_title
+theme: islandora_starter_theme
 region: content
 weight: -7
 provider: null
